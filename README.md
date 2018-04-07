@@ -1,4 +1,4 @@
-# LSTM-TIME-SERIES-SIDE-PROJECt
+# LSTM-TIME-SERIES-SIDE-PROJECT
 
 
 This project was inspired by the following blogger's work:
